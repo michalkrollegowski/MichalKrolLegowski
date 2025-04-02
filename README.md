@@ -1,5 +1,6 @@
 # 🎴 About Me:
 ## Hi I'm Michał<br><br>🧠 2nd year student of applied computer science at WSEI<br><br><br>I develop myself by creating:<br><br>🎮 games in Unity<br><br>⌨️ programs algorithms and desktop applications<br><br>🗿 3d models and simple animations in blender<br><br><br>My hobby is:<br><br>🎮 playing video games<br><br>📖 reading fantasy<br><br>🏔️ mountain hiking<br><br><br>My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/michal-krol-legowski-51659530b)<br><br><br>
+(https://www.codewars.com/users/W1ZZ3R/badges/large)<br><br>
 
 
 # 💻 Tech Stack:
